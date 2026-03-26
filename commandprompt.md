@@ -33,17 +33,6 @@ A full transformation from **people-driven to system-driven operations**. The go
 
 **Being decommissioned:** HubSpot (CRM, marketing, support, finance modules), Metabase, Jira.
 
----
-
-### TEAM & OWNERSHIP
-| Person | Role | Domain |
-|--------|------|--------|
-| **Danilo** | PM + Automation Lead | N8N architecture, signal capture, campaign automation |
-| **Fred** | CRM Migration Lead | Attio setup, data clean-up, HubSpot decommission |
-| **Juan G** | Success & Marketing Director | CS team adoption, Webflow, lead gen |
-| **Ben** | Sales and Success Director | Sales and Success team adoption of Attio, value prop |
-| **Moreno** | Head of Support | Pylon migration and adoption |
-| **Phil** | Finance Director | Finance automation verification |
 
 ---
 
@@ -57,9 +46,9 @@ The customer journey is defined by these stages, all controlled by N8N (never ma
 | On Trial | Active trial | — | System + Sales |
 | Win | Converted to paying | — | Customer Success |
 | Onboarded | Setup complete | 0–99 | CS |
-| Low Activity | — | 100–299 | System (churn prevention) |
-| Medium Activity | — | 300–499 | System (growth nurture) |
-| High Activity | — | 500–799 | System (upsell) |
+| Low Activity | — | TBD | System (churn prevention) |
+| Medium Activity | — | TBD | System (growth nurture) |
+| High Activity | — | TBD | System (upsell) |
 | Advocate | High engagement + referrals | 800+ | CS |
 | Churn Risk | CHI drops critically | — | CS (urgent) |
 | Lost | Churned | — | CS (post-mortem) |
